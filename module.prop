@@ -1,0 +1,6 @@
+id=one.foobar.fuckopinstaller
+name=FuckOPInstaller
+version=0.0.1
+versionCode=1
+author=fitenne
+description=Replace Oppo package installer for OnePlus
